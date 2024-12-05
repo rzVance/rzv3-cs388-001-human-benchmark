@@ -85,8 +85,11 @@ this section]
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]
+
+- ![Image/GIF showing Article Details screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
+- ![Image/GIF showing Article Details screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
 
 ## Issues worked on this sprint
 
