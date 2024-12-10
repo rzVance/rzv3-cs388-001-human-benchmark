@@ -78,18 +78,19 @@
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-> **TODO** 
+
 [Add screenshot of your Project Board with three milestones visible in
 this section] 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5mMWFkMmJiZ3JoOXgxM2phd2pyMHNuam94Zjc2NjZvNjNiOGNhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/upNWXKsj2tZVlhWkmi/giphy.gif" width=600>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwYmFoemJpY3Jmb3QxNGdsem94OXZhMnVsY21ncWRlYWswNjl1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BVmT5dHDey2hbpGVuc/giphy.gif" width=600>
 
 ## Issue cards
-> **TODO** 
+
 - [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]
 
-- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA3NDdjaHQyZnN5Z3Bnanc4cjZqYjJlejYwcDZzeGpkd3MyYTN2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6jxMrCcpLmowuZY6D0/giphy.gif)
+
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
-- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJwbW45MWU5dXdtbm5kYmhqdHd6ZzJ2cW5odTJxdzJjYTAzN3c4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVP439ILIlxBCZXm4P/giphy.gif)
 
 ## Issues worked on this sprint
 
