@@ -78,24 +78,25 @@
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-
+> **TODO** 
 [Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+this section] 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5mMWFkMmJiZ3JoOXgxM2phd2pyMHNuam94Zjc2NjZvNjNiOGNhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/upNWXKsj2tZVlhWkmi/giphy.gif" width=600>
 
 ## Issue cards
-
+> **TODO** 
 - [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]
 
-- ![Image/GIF showing Article Details screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
-- ![Image/GIF showing Article Details screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
+- ![Image/GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRmazJ2YXptM29uMDFtaTFxcG11NnMzMWpnaWpxZDVuNGFhOWR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKKs3PsIEP42Pn7BuS/giphy.gif)
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Setup Navigation Bar
 
+- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- ![Image/GIF showing Article Details screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ5a2NsMjQ1eHJjMG1oeGQxZGRyMjNyNmN2cnlscW10ZTEwbjNxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fIz63wlbClDCOW7Y7F/giphy.gif) 
 <br>
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
@@ -106,7 +107,7 @@ this section]
 
 ## Completed user stories
 
-- List the completed user stories from this unit
+- As a user i would be able to play the game over and over. and  
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
